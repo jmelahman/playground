@@ -1,5 +1,7 @@
 # playground
 
+https://github.com/bazelbuild/rules_python/issues/716
+
 ```
 $ ./repro.bash
 Unable to find image 'lahmanja/arch:v1.0.0' locally
